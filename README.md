@@ -1,6 +1,8 @@
-# Apollo Client: Caching
+# (Odyssey Course) Apollo Client: Caching
 
-Welcome to the starter code for the Odyssey course, [Apollo Client: Caching](https://www.apollographql.com/tutorials/apollo-client-caching). In this course, we'll explore the various features of the Apollo Client cache. We'll use type policies, client-only fields, and the built-in caching APIs to read and manipulate data directly in the cache.
+Welcome to the starter code for **Apollo Client: Caching**. You can find the [course lessons and instructions](https://www.apollographql.com/tutorials/apollo-client-caching) on Odyssey, [Apollo](https://apollographql.com)'s learning platform.
+
+In this course, we'll explore the various features of the Apollo Client cache. We'll use type policies, client-only fields, and the built-in caching APIs to read and manipulate data directly in the cache.
 
 ## Getting started
 
