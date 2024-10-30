@@ -20,7 +20,7 @@ Next, boot up the app.
 npm start
 ```
 
-This starts up the app, which you can browse and play around with at [http://localhost:3000](http://localhost:3000).
+This launches the app at [http://localhost:3000](http://localhost:3000). Feel free to browse and play around!
 
 ### Install extensions
 
